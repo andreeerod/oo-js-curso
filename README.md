@@ -1,7 +1,7 @@
-# Exercício ES6
+# Exercício TypeScript
 
-Array de alunos (`nome` e `nota`) e função `aprovados` que retorna só quem tem nota >= 6.
+Funções tipadas `multiplicar(a, b)` e `saudacao(nome)`.
 
 ```bash
-node alunos.js
+npx tsc exercicio.ts && node exercicio.js
 ```
