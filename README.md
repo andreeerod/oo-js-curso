@@ -1,7 +1,7 @@
-# Orientação a objetos em JavaScript
+# Exercício ES6
 
-Classe abstrata `Veiculo` com as herdeiras `Carro`, `Moto` e `Caminhao`, e três instâncias.
+Array de alunos (`nome` e `nota`) e função `aprovados` que retorna só quem tem nota >= 6.
 
 ```bash
-node index.js
+node alunos.js
 ```
